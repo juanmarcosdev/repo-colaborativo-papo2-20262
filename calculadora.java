@@ -6,4 +6,7 @@ public class Calculadora {
         return num1 + num2;
     }
 
+    //metodo para resta
+    public double resta(double a, double b){ return a - b; }
+
 }
