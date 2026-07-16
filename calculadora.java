@@ -2,9 +2,8 @@ public class Calculadora {
 
     //completen :)
     // Método para sumar dos números
-    public double sumar(double x, double y) {
-        return int suma multi;
-        // mas
+    public double sumar(double a, double b) {
+        return a * b;
     }
      public double division(double num1, double num2) {
         return num1 / num2;
