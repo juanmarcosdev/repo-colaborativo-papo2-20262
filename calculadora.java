@@ -7,8 +7,12 @@ public class Calculadora {
     }
      public double division(double num1, double num2) {
         return num1 - num2;
-    }
 
+    }
+    public double multiplicacion(double num1, double num2) {
+        return num1 * num2;
+        
+    }
     //metodo para resta
     public double resta(double a, double b){ return a - b; }
 
